@@ -3,8 +3,8 @@ import './App.css'
 import Courses from './Components/Courses/Courses'
 import { useEffect } from 'react';
 import Carts from './Components/Carts/Carts';
-// import { toast } from 'react-toastify';
-// import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
 
@@ -79,7 +79,7 @@ function App() {
         </div>
       </div>
       
-      
+      <ToastContainer />
     </div>
   )
 }
