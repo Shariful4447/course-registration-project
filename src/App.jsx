@@ -29,7 +29,7 @@ function App() {
 
 // credit alert 
     if(itemCredit >=20){
-      toast.warn("you have no remaining !");
+      toast.warn("you have no remaining credit to book!");
       return 
     }
 // 
