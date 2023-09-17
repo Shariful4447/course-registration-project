@@ -29,12 +29,12 @@ function App() {
 
 // credit alert 
     if(itemCredit >=20){
-      // toast.warn("you have no remaining !");
+      toast.warn("you have no remaining !");
       return 
     }
 // 
     if(isExist){
-      // toast.warn("all ready booked");
+      toast.warn("all ready booked");
     }else{
       cartDetails.forEach((test) => {
         count += test.price;
