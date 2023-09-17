@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "React.js Basic",
+    "price": 2500,
+    "details": "Learn the basics of React.js and build interactive user interfaces. Dive into React components, state management, and component lifecycle. Get hands-on experience with real-world projects.",
+    "credit": 3,
+    "img": "assets/React.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Node.js Development",
+    "price": 3500,
+    "details": "Create server-side applications with Node.js and Express. Explore RESTful API design, database integration, and authentication. Launch your own RESTful API project.",
+    "credit": 4,
+    "img": "assets/node-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Python Data Science & Algoritham",
+    "price": 4200,
+    "details": "Master data analysis and machine learning with Python. Learn data visualization, predictive modeling, and data manipulation. Apply data science in real-world scenarios.",
+    "credit": 4,
+    "img": "assets/python.png"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript Web Development",
+    "price": 2800,
+    "details": "Build dynamic websites with JavaScript. Includes modern frameworks like React. Explore JavaScript ES6, asynchronous programming, ",
+    "credit": 3,
+    "img": "assets/Javascript.png"
+  },
+  {
+    "id": 5,
+    "name": "SQL Database Maintaning",
+    "price": 3200,
+    "details": "Manage and optimize SQL databases for efficient data storage. Learn SQL query optimization, indexing, and backup strategies. Ensure data integrity and security.",
+    "credit": 3,
+    "img": "assets/SQL.png"
+  },
+  {
+    "id": 6,
+    "name": "Ruby on Rails Mastery",
+    "price": 3100,
+    "details": "Become a Rails expert and create web applications with Ruby. Dive into MVC architecture, routing, and database integration. Develop and deploy Rails apps.",
+    "credit": 3,
+    "img": "assets/Ruby on Rails Hiring Guide .png"
+  },
+  {
+    "id": 7,
+    "name": "PHP Web Development Crash course",
+    "price": 19000,
+    "details": "Build dynamic websites with PHP. Includes database integration and security practices. Develop e-commerce solutions and interactive web applications.",
+    "credit": 4,
+    "img": "assets/PHP.jpg"
+  },
+  {
+    "id": 8,
+    "name": "App Development",
+    "price": 4200,
+    "details": "Create mobile apps for iOS and Android platforms. Explore app design, user experience, and app store deployment. Build and publish your mobile app.",
+    "credit": 3,
+    "img": "assets/app-development.jpg"
+  },
+  {
+    "id": 9,
+    "name": "UI/UX Design",
+    "price": 2800,
+    "details": "Learn design principles and create user-friendly interfaces. Dive into user research, wireframing, and prototyping. Design engaging and intuitive interfaces.",
+    "credit": 2,
+    "img": "assets/UI-UX.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cybersecurity Essentials",
+    "price": 3500,
+    "details": "Protect systems and data from cyber threats with best practices. Explore network security, encryption, and ethical hacking. Secure your digital assets.",
+    "credit": 4,
+    "img": "assets/Cybersecurity.png"
+  },
+  {
+    "id": 11,
+    "name": "DevOps for Continuous Integration",
+    "price": 3100,
+    "details": "Implement DevOps practices for seamless software development. Explore automation, containerization, and continuous integration. Streamline your development pipeline.",
+    "credit": 3,
+    "img": "assets/data.png"
+  },
+  {
+    "id": 12,
+    "name": "Data Analysis with R",
+    "price": 2500,
+    "details": "Analyze and visualize data using the R programming language. Dive into data manipulation, statistical analysis, and data storytelling. Gain insights from your data.",
+    "credit":3,
+    "img": "assets/devops.png"
+  }
+]
